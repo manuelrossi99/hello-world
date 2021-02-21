@@ -1,3 +1,3 @@
 # hello-world
 First repository
-i love :coffe: :pizza:
+i love :coffee: :pizza:
